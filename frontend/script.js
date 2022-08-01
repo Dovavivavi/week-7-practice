@@ -1,4 +1,4 @@
-// global scope = js mindenhol hozzáfér
+// global scope = belülről vissza lehet kérni mindent, de kívülről nem
 
 let globalVariable = 'amogus';
 
